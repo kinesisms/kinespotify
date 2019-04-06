@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kinespotify/precache-manifest.2a18ed4ef3fb4fc5802e926acdcf9232.js"
+  "/kinespotify/precache-manifest.94543b9ce69a22b340dc0fc8ce5b6e4b.js"
 );
 
 workbox.clientsClaim();
